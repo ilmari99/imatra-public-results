@@ -1,0 +1,29 @@
+{
+    "query": [
+      {
+        "code": "Alue",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "KU153"
+          ]
+        }
+      },
+      {
+        "code": "Tiedot",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "luonvalisays",
+            "vm43_netto",
+            "vm44",
+            "vm4142",
+            "vaesto"
+          ]
+        }
+      }
+    ],
+    "response": {
+      "format": "json"
+    }
+  }

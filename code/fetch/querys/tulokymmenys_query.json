@@ -1,0 +1,44 @@
+{
+  "query": [
+    {
+      "code": "Tulokymmenys",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "SS",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      }
+    },
+    {
+      "code": "Seutukunta",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "SK093"
+        ]
+      }
+    },
+    {
+      "code": "Tiedot",
+      "selection": {
+        "filter": "item",
+        "values": [
+          "deslkm_os"
+        ]
+      }
+    }
+    ],
+    "response": {
+        "format": "json"
+    }
+    }

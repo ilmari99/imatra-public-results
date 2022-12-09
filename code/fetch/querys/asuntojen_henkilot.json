@@ -1,0 +1,40 @@
+{
+    "query": [
+      {
+        "code": "Talotyyppi",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "S"
+          ]
+        }
+      },
+      {
+        "code": "Alue",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "KU153"
+          ]
+        }
+      },
+      {
+        "code": "Asuntokunnan koko",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+          ]
+        }
+      }
+    ],
+    "response": {
+      "format": "json"
+    }
+  }

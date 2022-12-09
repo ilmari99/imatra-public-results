@@ -1,0 +1,6 @@
+*.csv
+*venv*
+*.txt
+*__pycache__
+tietoja.md
+.vscode
